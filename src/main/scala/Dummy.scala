@@ -1,2 +1,2 @@
 object Dummy:
-  def stringToInt(s: String): Int = s.toInt
+  def stringToInt(v: String): Int = v.toInt
